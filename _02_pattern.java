@@ -6,13 +6,13 @@ public class _02_pattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-
+/*
         1
        2 2
       3 3 3
      4 4 4 4
     5 5 5 5 5
-
+*/
         int i,j=5;
         for ( i = 1; i <=5; i++) {
             for ( j = 1; j <=5-i ; j++) {
